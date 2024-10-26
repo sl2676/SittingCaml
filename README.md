@@ -1,4 +1,4 @@
-# Sentiment Analysis CLI Tool 
+# Sentiment Analysis CLI Tool ~ SittingCaml
 
 This repository contains a sentiment analysis tool that uses OCaml for a command-line interface (CLI) and Python's FastAPI as a backend. The backend is powered by Hugging Face’s Transformers library to analyze the sentiment of input text, providing a simple and powerful way to perform sentiment analysis directly from the command line.
 
