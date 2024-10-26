@@ -1,0 +1,4 @@
+(executable
+ (name sentiment_cli)
+ (libraries lwt lwt.unix cohttp-lwt-unix yojson cmdliner))
+
